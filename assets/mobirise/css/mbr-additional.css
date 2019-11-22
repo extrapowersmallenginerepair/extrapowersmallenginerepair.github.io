@@ -712,6 +712,10 @@ section.lazy-placeholder:after {
 .cid-rCJWLghvJq {
   background-color: #149dcc;
 }
+.cid-rCJWLghvJq .mbr-text,
+.cid-rCJWLghvJq .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-rCKcSvIpwy {
   padding-top: 90px;
   padding-bottom: 90px;
