@@ -814,6 +814,18 @@ section.lazy-placeholder:after {
     padding-bottom: 3rem;
   }
 }
+.cid-rKY6uE7SRr {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-rKY6uE7SRr .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rKY6uE7SRr .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rCKnwLvZL3 .navbar {
   background: #ffffff;
   transition: none;
